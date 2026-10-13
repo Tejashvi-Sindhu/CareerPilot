@@ -1,0 +1,3 @@
+# Optional semantic matching. This package and its model can use significant disk/RAM.
+# Install only if you want sentence-transformer embeddings in addition to the TF-IDF baseline.
+sentence-transformers>=3.0,<6.0
